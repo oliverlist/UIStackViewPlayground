@@ -3,7 +3,7 @@
 Simple example to experiment with different [UIStackView](https://developer.apple.com/reference/uikit/uistackview) configurations.
 
 ![](screenshot.png)
-
+
 ##Usage##
 Use the toolbar to change the following stack view attributes:
 
