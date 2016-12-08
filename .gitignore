@@ -1,0 +1,11 @@
+Thumbs.db
+._*
+DerivedData
+.DS_Store
+Frameworks
+test-reports/*.*
+build
+*.log
+.idea
+StackViewPlayground.xcodeproj/project.xcworkspace
+StackViewPlayground.xcodeproj/xcuserdata
